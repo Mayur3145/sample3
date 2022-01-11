@@ -1,0 +1,131 @@
+body{
+
+    background-image: url("image.png");
+    background-repeat: no-repeat;
+  background-attachment: fixed;  
+  background-size: cover;
+
+  justify-content: center;
+  
+}
+
+
+.info{
+    background-color: aqua;
+    padding: 25px;
+    border: 2px solid;
+    display: flex;
+    width: 700px;
+    box-shadow: 8px 8px 8px rgb(80, 80, 80);
+    margin: auto;
+}
+
+.info:hover{
+    box-shadow: 14px 14px 14px rgb(80, 80, 80);
+}
+
+.info td{
+    font-size: 20px;
+    text-shadow: 3px 3px 8px black;
+    color: black;
+}
+
+.info table{
+    padding-left: 80px;
+}
+
+.img{
+    margin-left: 120px;
+}
+
+.img img:hover{
+    box-shadow: 7px 7px 7px rgb(59, 59, 59);
+}
+
+.skill{
+    display: flex;
+    ;
+}
+
+.skills{
+
+    background-color: aqua;
+    width: 750px;
+    justify-content: center;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 40px;
+    margin: auto;
+    margin-top: 30px;
+    border: 2px solid;
+    box-shadow: 8px 8px 8px rgb(80, 80, 80);
+
+
+
+}
+
+
+.skills:hover{
+
+    box-shadow: 14px 14px 14px rgb(80, 80, 80);
+
+}
+
+.skills h2{
+    background-color: rgb(248, 194, 77);
+    width:120px;
+    text-align: center;
+    margin: auto;
+    margin-bottom: 25px;
+    padding: 10px;
+    border: 1px solid;
+    box-shadow: 8px 8px 8px rgb(80, 80, 80);
+    
+    
+}
+
+.skills p{
+    background-color: teal;
+    color: white;
+    width:200px;
+    text-align: center;
+    margin-left: 100px;
+    padding: 10px;
+    border: 1px solid;
+    margin-top: 10px;
+}
+
+.skills p:hover{
+    box-shadow:7px 7px 7px rgb(59, 59, 59); 
+    background-color: white;
+    color: teal;
+}
+
+.video{
+    display: flex;
+    background-color: aqua;
+    width: 900px;
+    justify-content: center;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 40px;
+    margin: auto;
+    margin-top: 30px;
+    margin-bottom: 50px;
+    border: 2px solid;
+    box-shadow: 8px 8px 8px rgb(80, 80, 80);
+}
+
+
+.video audio{
+    margin-top: 50px;
+}
+
+.video video{
+    margin-left: 30px;
+}
+
+
+.video:hover{
+    box-shadow: 14px 14px 14px rgb(80, 80, 80);
+}
