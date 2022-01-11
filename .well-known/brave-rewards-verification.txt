@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: msample45.herokuapp.com
+Token: bcf736627d4b87d5cb2aa54bfa8015ae2f5dd1219d18a7be61e5d3d6180efbc1
